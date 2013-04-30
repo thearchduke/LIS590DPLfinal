@@ -1,0 +1,88 @@
+div.container {
+    width: 800px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+div.sidebar {
+    width: 200px;
+    position: absolute;
+    top: 0px;
+    left: 850px;
+}
+
+div.bodyPara {
+}
+
+div.billTitle {
+    font-size: 32px;
+    text-align: center;
+}
+
+/*
+div.blockquote{
+    background-color: #eee;
+    border-left: 3px solid #bbb;
+    padding-left: 10px;
+    padding-top: 5px;
+    margin-left: 45px;
+    margin-right: 100px;
+}
+*/
+span.header {
+    font-weight: bold;
+}
+
+span.headerQuoted {
+    background-color: #eee;
+    font-weight: bold;
+}
+
+div.blockquote{
+    background-color: #eee;
+    margin-left: 45px;
+    margin-right: 100px;
+    border-left: 3px solid #bbb;
+    padding-left: 10px;
+}
+
+div.afterBlockquote {
+}
+
+span.blockquote{
+    background-color: #eee;
+    margin-left: 45px;
+    margin-right: 100px;
+    border-left: 3px solid #bbb;
+    padding-left: 10px;
+    display: inline-block;
+    width: 500px;
+}
+
+span.afterBlockquote {
+}
+
+span.bodyParaQuoted{
+    background-color: #eee;
+}
+
+span.subsectionQuoted{
+    background-color: #eee;
+}
+
+span.sectionQuoted{
+    background-color: #eee;
+}
+
+span.textQuoted{
+    background-color: #eee;
+    display: inline-block;
+    width: 700px;
+    padding-left: 10px;
+}
+
+span.enumQuoted{
+    background-color: #eee;
+    display: inline-block;
+}

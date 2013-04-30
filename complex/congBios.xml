@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?><congress><session>111</session><members>
+<rep><name>ABERCROMBIE, Neil</name><id>A000014</id><party>D</party><state>HI</state><encodedDistrict>HI_1</encodedDistrict></rep>
+<rep><name>ACKERMAN, Gary Leonard</name><id>A000022</id><party>D</party><state>NY</state><encodedDistrict>NY_5</encodedDistrict></rep>
+<rep><name>ADERHOLT, Robert</name><id>A000055</id><party>R</party><state>AL</state><encodedDistrict>AL_4</encodedDistrict></rep>
+<rep><name>ADLER, John H.</name><id>A000364</id><party>D</party><state>NJ</state><encodedDistrict>NJ_3</encodedDistrict></rep>
+<rep/>
+<rep><name>AKIN, W. Todd</name><id>A000358</id><party>R</party><state>MO</state><encodedDistrict>MO_2</encodedDistrict></rep>
+<rep/>
+<rep><name>ALEXANDER, Rodney</name><id>A000361</id><party>R</party><state>LA</state><encodedDistrict>LA_5</encodedDistrict></rep>
+<rep><name>ALTMIRE, Jason</name><id>A000362</id><party>D</party><state>PA</state><encodedDistrict>PA_4</encodedDistrict></rep>
+<rep><name>ANDREWS, Robert Ernest</name><id>A000210</id><party>D</party><state>NJ</state><encodedDistrict>NJ_1</encodedDistrict></rep>
+<rep><name>ARCURI, Michael</name><id>A000363</id><party>D</party><state>NY</state><encodedDistrict>NY_24</encodedDistrict></rep>
+<rep><name>AUSTRIA, Steve</name><id>A000365</id><party>R</party><state>OH</state><encodedDistrict>OH_7</encodedDistrict></rep>
+<rep><name>BACA, Joe</name><id>B001234</id><party>D</party><state>CA</state><encodedDistrict>CA_43</encodedDistrict></rep>
+<rep><name>BACHMANN, Michele</name><id>B001256</id><party>R</party><state>MN</state><encodedDistrict>MN_6</encodedDistrict></rep>
+<rep><name>BACHUS, Spencer T., III</name><id>B000013</id><party>R</party><state>AL</state><encodedDistrict>AL_6</encodedDistrict></rep>
+<rep><name>BAIRD, Brian</name><id>B001229</id><party>D</party><state>WA</state><encodedDistrict>WA_3</encodedDistrict></rep>
+<rep><name>BALDWIN, Tammy</name><id>B001230</id><party>D</party><state>WI</state><encodedDistrict>WI_2</encodedDistrict></rep>
+<rep/>
+<rep><name>BARRETT, James Gresham</name><id>B001239</id><party>R</party><state>SC</state><encodedDistrict>SC_3</encodedDistrict></rep>
+<rep><name>BARROW, John</name><id>B001252</id><party>D</party><state>GA</state><encodedDistrict>GA_12</encodedDistrict></rep>
+<rep><name>BARTLETT, Roscoe Gardner</name><id>B000208</id><party>R</party><state>MD</state><encodedDistrict>MD_6</encodedDistrict></rep>
+<rep><name>BARTON, Joe Linus</name><id>B000213</id><party>R</party><state>TX</state><encodedDistrict>TX_6</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep><name>BEAN, Melissa L.</name><id>B001253</id><party>D</party><state>IL</state><encodedDistrict>IL_8</encodedDistrict></rep>
+<rep><name>BECERRA, Xavier</name><id>B000287</id><party>D</party><state>CA</state><encodedDistrict>CA_31</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep/>
+<rep><name>BERKLEY, Shelley</name><id>B001231</id><party>D</party><state>NV</state><encodedDistrict>NV_1</encodedDistrict></rep>
+<rep><name>BERMAN, Howard Lawrence</name><id>B000410</id><party>D</party><state>CA</state><encodedDistrict>CA_28</encodedDistrict></rep>
+<rep><name>BERRY, Robert Marion</name><id>B000420</id><party>D</party><state>AR</state><encodedDistrict>AR_1</encodedDistrict></rep>
+<rep/>
+<rep><name>BIGGERT, Judy Borg</name><id>B001232</id><party>R</party><state>IL</state><encodedDistrict>IL_13</encodedDistrict></rep>
+<rep><name>BILBRAY, Brian P.</name><id>B000461</id><party>R</party><state>CA</state><encodedDistrict>CA_50</encodedDistrict></rep>
+<rep><name>BILIRAKIS, Gus</name><id>B001257</id><party>R</party><state>FL</state><encodedDistrict>FL_9</encodedDistrict></rep>
+<rep/>
+<rep><name>BISHOP, Robert (Rob)</name><id>B001250</id><party>R</party><state>UT</state><encodedDistrict>UT_1</encodedDistrict></rep>
+<rep><name>BISHOP, Sanford Dixon, Jr.</name><id>B000490</id><party>D</party><state>GA</state><encodedDistrict>GA_2</encodedDistrict></rep>
+<rep><name>BISHOP, Timothy H.</name><id>B001242</id><party>D</party><state>NY</state><encodedDistrict>NY_1</encodedDistrict></rep>
+<rep><name>BLACKBURN, Marsha</name><id>B001243</id><party>R</party><state>TN</state><encodedDistrict>TN_7</encodedDistrict></rep>
+<rep><name>BLUMENAUER, Earl</name><id>B000574</id><party>D</party><state>OR</state><encodedDistrict>OR_3</encodedDistrict></rep>
+<rep><name>BLUNT, Roy</name><id>B000575</id><party>R</party><state>MO</state><encodedDistrict>MO_7</encodedDistrict></rep>
+<rep><name>BOCCIERI, John A.</name><id>B001263</id><party>D</party><state>OH</state><encodedDistrict>OH_16</encodedDistrict></rep>
+<rep><name>BOEHNER, John Andrew</name><id>B000589</id><party>R</party><state>OH</state><encodedDistrict>OH_8</encodedDistrict></rep>
+<rep/>
+<rep><name>BONNER, Jr., Josiah Robins (Jo)</name><id>B001244</id><party>R</party><state>AL</state><encodedDistrict>AL_1</encodedDistrict></rep>
+<rep><name>BONO MACK, Mary</name><id>B001228</id><party>R</party><state>CA</state><encodedDistrict>CA_45</encodedDistrict></rep>
+<rep><name>BOOZMAN, John</name><id>B001236</id><party>R</party><state>AR</state><encodedDistrict>AR_3</encodedDistrict></rep>
+<rep/>
+<rep><name>BOREN, Daniel David</name><id>B001254</id><party>D</party><state>OK</state><encodedDistrict>OK_2</encodedDistrict></rep>
+<rep><name>BOSWELL, Leonard L.</name><id>B000652</id><party>D</party><state>IA</state><encodedDistrict>IA_3</encodedDistrict></rep>
+<rep><name>BOUCHER, Frederick C.</name><id>B000657</id><party>D</party><state>VA</state><encodedDistrict>VA_9</encodedDistrict></rep>
+<rep><name>BOUSTANY, Charles W.</name><id>B001255</id><party>R</party><state>LA</state><encodedDistrict>LA_7</encodedDistrict></rep>
+<rep/>
+<rep><name>BOYD, F. Allen, Jr.</name><id>B000716</id><party>D</party><state>FL</state><encodedDistrict>FL_2</encodedDistrict></rep>
+<rep><name>BRADY, Kevin Patrick</name><id>B000755</id><party>R</party><state>TX</state><encodedDistrict>TX_8</encodedDistrict></rep>
+<rep><name>BRADY, Robert A.</name><id>B001227</id><party>D</party><state>PA</state><encodedDistrict>PA_1</encodedDistrict></rep>
+<rep><name>BRALEY, Bruce</name><id>B001259</id><party>D</party><state>IA</state><encodedDistrict>IA_1</encodedDistrict></rep>
+<rep><name>BRIGHT, Bobby Neal, Sr.</name><id>B001264</id><party>D</party><state>AL</state><encodedDistrict>AL_2</encodedDistrict></rep>
+<rep><name>BROUN, Paul C., Jr.</name><id>B001262</id><party>R</party><state>GA</state><encodedDistrict>GA_10</encodedDistrict></rep>
+<rep><name>BROWN, Corrine</name><id>B000911</id><party>D</party><state>FL</state><encodedDistrict>FL_3</encodedDistrict></rep>
+<rep><name>BROWN, Henry Edward, Jr.</name><id>B001235</id><party>R</party><state>SC</state><encodedDistrict>SC_1</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep><name>BROWN-WAITE, Virginia (Ginny)</name><id>B001247</id><party>R</party><state>FL</state><encodedDistrict>FL_5</encodedDistrict></rep>
+<rep/>
+<rep><name>BUCHANAN, Vernon G.</name><id>B001260</id><party>R</party><state>FL</state><encodedDistrict>FL_13</encodedDistrict></rep>
+<rep/>
+<rep><name>BURGESS, Michael C.</name><id>B001248</id><party>R</party><state>TX</state><encodedDistrict>TX_26</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep><name>BURTON, Danny Lee</name><id>B001149</id><party>R</party><state>IN</state><encodedDistrict>IN_5</encodedDistrict></rep>
+<rep><name>BUTTERFIELD, George Kenneth, Jr. (G.K.)</name><id>B001251</id><party>D</party><state>NC</state><encodedDistrict>NC_1</encodedDistrict></rep>
+<rep><name>BUYER, Stephen Earle</name><id>B001203</id><party>R</party><state>IN</state><encodedDistrict>IN_4</encodedDistrict></rep>
+<rep/>
+<rep><name>CALVERT, Ken</name><id>C000059</id><party>R</party><state>CA</state><encodedDistrict>CA_44</encodedDistrict></rep>
+<rep><name>CAMP, David Lee</name><id>C000071</id><party>R</party><state>MI</state><encodedDistrict>MI_4</encodedDistrict></rep>
+<rep><name>CAMPBELL, John (of California)</name><id>C001064</id><party>R</party><state>CA</state><encodedDistrict>CA_48</encodedDistrict></rep>
+<rep><name>CANTOR, Eric</name><id>C001046</id><party>R</party><state>VA</state><encodedDistrict>VA_7</encodedDistrict></rep>
+<rep/>
+<rep><name>CAO, Anh (Joseph) Quang</name><id>C001079</id><party>R</party><state>LA</state><encodedDistrict>LA_2</encodedDistrict></rep>
+<rep><name>CAPITO, Shelley Moore</name><id>C001047</id><party>R</party><state>WV</state><encodedDistrict>WV_2</encodedDistrict></rep>
+<rep><name>CAPPS, Lois</name><id>C001036</id><party>D</party><state>CA</state><encodedDistrict>CA_23</encodedDistrict></rep>
+<rep><name>CAPUANO, Michael Everett</name><id>C001037</id><party>D</party><state>MA</state><encodedDistrict>MA_8</encodedDistrict></rep>
+<rep/>
+<rep><name>CARDOZA, Dennis A.</name><id>C001050</id><party>D</party><state>CA</state><encodedDistrict>CA_18</encodedDistrict></rep>
+<rep><name>CARNAHAN, Russ</name><id>C001060</id><party>D</party><state>MO</state><encodedDistrict>MO_3</encodedDistrict></rep>
+<rep><name>CARNEY, Chris</name><id>C001065</id><party>D</party><state>PA</state><encodedDistrict>PA_10</encodedDistrict></rep>
+<rep/>
+<rep><name>CARSON, Andr�</name><id>C001072</id><party>D</party><state>IN</state><encodedDistrict>IN_7</encodedDistrict></rep>
+<rep><name>CARTER, John R.</name><id>C001051</id><party>R</party><state>TX</state><encodedDistrict>TX_31</encodedDistrict></rep>
+<rep/>
+<rep><name>CASSIDY, Bill</name><id>C001075</id><party>R</party><state>LA</state><encodedDistrict>LA_6</encodedDistrict></rep>
+<rep><name>CASTLE, Michael Newbold</name><id>C000243</id><party>R</party><state>DE</state><encodedDistrict>DE_At-Large</encodedDistrict></rep>
+<rep><name>CASTOR, Kathy</name><id>C001066</id><party>D</party><state>FL</state><encodedDistrict>FL_11</encodedDistrict></rep>
+<rep><name>CHAFFETZ, Jason</name><id>C001076</id><party>R</party><state>UT</state><encodedDistrict>UT_3</encodedDistrict></rep>
+<rep/>
+<rep><name>CHANDLER, A. B. (Ben)</name><id>C001058</id><party>D</party><state>KY</state><encodedDistrict>KY_6</encodedDistrict></rep>
+<rep><name>CHILDERS, Travis W.</name><id>C001074</id><party>D</party><state>MS</state><encodedDistrict>MS_1</encodedDistrict></rep>
+<rep/>
+<rep><name>CHU, Judy</name><id>C001080</id><party>D</party><state>CA</state><encodedDistrict>CA_32</encodedDistrict></rep>
+<rep><name>CLARKE, Yvette Diane</name><id>C001067</id><party>D</party><state>NY</state><encodedDistrict>NY_11</encodedDistrict></rep>
+<rep><name>CLAY, William Lacy, Jr.</name><id>C001049</id><party>D</party><state>MO</state><encodedDistrict>MO_1</encodedDistrict></rep>
+<rep><name>CLEAVER, Emanuel, II</name><id>C001061</id><party>D</party><state>MO</state><encodedDistrict>MO_5</encodedDistrict></rep>
+<rep/>
+<rep><name>CLYBURN, James Enos</name><id>C000537</id><party>D</party><state>SC</state><encodedDistrict>SC_6</encodedDistrict></rep>
+<rep><name>COBLE, Howard</name><id>C000556</id><party>R</party><state>NC</state><encodedDistrict>NC_6</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep><name>COFFMAN, Michael</name><id>C001077</id><party>R</party><state>CO</state><encodedDistrict>CO_6</encodedDistrict></rep>
+<rep><name>COHEN, Stephen</name><id>C001068</id><party>D</party><state>TN</state><encodedDistrict>TN_9</encodedDistrict></rep>
+<rep><name>COLE, Tom</name><id>C001053</id><party>R</party><state>OK</state><encodedDistrict>OK_4</encodedDistrict></rep>
+<rep/>
+<rep><name>CONAWAY, K. Michael</name><id>C001062</id><party>R</party><state>TX</state><encodedDistrict>TX_11</encodedDistrict></rep>
+<rep><name>CONNOLLY, Gerald E. (Gerry)</name><id>C001078</id><party>D</party><state>VA</state><encodedDistrict>VA_11</encodedDistrict></rep>
+<rep/>
+<rep><name>CONYERS, John, Jr.</name><id>C000714</id><party>D</party><state>MI</state><encodedDistrict>MI_13</encodedDistrict></rep>
+<rep/>
+<rep><name>COOPER, James Hayes Shofner</name><id>C000754</id><party>D</party><state>TN</state><encodedDistrict>TN_5</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep><name>COSTA, Jim</name><id>C001059</id><party>D</party><state>CA</state><encodedDistrict>CA_20</encodedDistrict></rep>
+<rep><name>COSTELLO, Jerry Francis</name><id>C000794</id><party>D</party><state>IL</state><encodedDistrict>IL_12</encodedDistrict></rep>
+<rep><name>COURTNEY, Joe</name><id>C001069</id><party>D</party><state>CT</state><encodedDistrict>CT_2</encodedDistrict></rep>
+<rep/>
+<rep><name>CRENSHAW, Ander</name><id>C001045</id><party>R</party><state>FL</state><encodedDistrict>FL_4</encodedDistrict></rep>
+<rep><name>CRITZ, Mark S.</name><id>C001081</id><party>D</party><state>PA</state><encodedDistrict>PA_12</encodedDistrict></rep>
+<rep><name>CROWLEY, Joseph</name><id>C001038</id><party>D</party><state>NY</state><encodedDistrict>NY_7</encodedDistrict></rep>
+<rep><name>CUELLAR, Henry</name><id>C001063</id><party>D</party><state>TX</state><encodedDistrict>TX_28</encodedDistrict></rep>
+<rep><name>CULBERSON, John</name><id>C001048</id><party>R</party><state>TX</state><encodedDistrict>TX_7</encodedDistrict></rep>
+<rep><name>CUMMINGS, Elijah Eugene</name><id>C000984</id><party>D</party><state>MD</state><encodedDistrict>MD_7</encodedDistrict></rep>
+<rep><name>DAHLKEMPER, Kathleen A. (Kathy)</name><id>D000608</id><party>D</party><state>PA</state><encodedDistrict>PA_3</encodedDistrict></rep>
+<rep><name>DAVIS, Artur</name><id>D000602</id><party>D</party><state>AL</state><encodedDistrict>AL_7</encodedDistrict></rep>
+<rep><name>DAVIS, Danny K.</name><id>D000096</id><party>D</party><state>IL</state><encodedDistrict>IL_7</encodedDistrict></rep>
+<rep><name>DAVIS, Geoffrey C. (Geoff)</name><id>D000603</id><party>R</party><state>KY</state><encodedDistrict>KY_4</encodedDistrict></rep>
+<rep><name>DAVIS, Lincoln</name><id>D000599</id><party>D</party><state>TN</state><encodedDistrict>TN_4</encodedDistrict></rep>
+<rep><name>DAVIS, Susan A.</name><id>D000598</id><party>D</party><state>CA</state><encodedDistrict>CA_53</encodedDistrict></rep>
+<rep><name>DEAL, John Nathan</name><id>D000168</id><party>R</party><state>GA</state><encodedDistrict>GA_9</encodedDistrict></rep>
+<rep><name>DeFAZIO, Peter Anthony</name><id>D000191</id><party>D</party><state>OR</state><encodedDistrict>OR_4</encodedDistrict></rep>
+<rep><name>DeGETTE, Diana</name><id>D000197</id><party>D</party><state>CO</state><encodedDistrict>CO_1</encodedDistrict></rep>
+<rep><name>DELAHUNT, Bill</name><id>D000210</id><party>D</party><state>MA</state><encodedDistrict>MA_10</encodedDistrict></rep>
+<rep><name>DeLAURO, Rosa L.</name><id>D000216</id><party>D</party><state>CT</state><encodedDistrict>CT_3</encodedDistrict></rep>
+<rep/>
+<rep><name>DENT, Charles W.</name><id>D000604</id><party>R</party><state>PA</state><encodedDistrict>PA_15</encodedDistrict></rep>
+<rep><name>DEUTCH, Theodore E. (Ted)</name><id>D000610</id><party>D</party><state>FL</state><encodedDistrict>FL_19</encodedDistrict></rep>
+<rep><name>DIAZ-BALART, Lincoln</name><id>D000299</id><party>R</party><state>FL</state><encodedDistrict>FL_21</encodedDistrict></rep>
+<rep><name>DIAZ-BALART, Mario</name><id>D000600</id><party>R</party><state>FL</state><encodedDistrict>FL_25</encodedDistrict></rep>
+<rep><name>DICKS, Norman DeValois</name><id>D000327</id><party>D</party><state>WA</state><encodedDistrict>WA_6</encodedDistrict></rep>
+<rep><name>DINGELL, John David, Jr.</name><id>D000355</id><party>D</party><state>MI</state><encodedDistrict>MI_15</encodedDistrict></rep>
+<rep><name>DJOU, Charles</name><id>D000611</id><party>R</party><state>HI</state><encodedDistrict>HI_1</encodedDistrict></rep>
+<rep/>
+<rep><name>DOGGETT, Lloyd Alton, II</name><id>D000399</id><party>D</party><state>TX</state><encodedDistrict>TX_25</encodedDistrict></rep>
+<rep><name>DONNELLY, Joe</name><id>D000607</id><party>D</party><state>IN</state><encodedDistrict>IN_2</encodedDistrict></rep>
+<rep/>
+<rep><name>DOYLE, Michael F.</name><id>D000482</id><party>D</party><state>PA</state><encodedDistrict>PA_14</encodedDistrict></rep>
+<rep><name>DREIER, David Timothy</name><id>D000492</id><party>R</party><state>CA</state><encodedDistrict>CA_26</encodedDistrict></rep>
+<rep><name>DRIEHAUS, Steve</name><id>D000609</id><party>D</party><state>OH</state><encodedDistrict>OH_1</encodedDistrict></rep>
+<rep><name>DUNCAN, John J., Jr.</name><id>D000533</id><party>R</party><state>TN</state><encodedDistrict>TN_2</encodedDistrict></rep>
+<rep/>
+<rep><name>EDWARDS, Donna F.</name><id>E000290</id><party>D</party><state>MD</state><encodedDistrict>MD_4</encodedDistrict></rep>
+<rep><name>EDWARDS, Thomas Chester (Chet)</name><id>E000063</id><party>D</party><state>TX</state><encodedDistrict>TX_17</encodedDistrict></rep>
+<rep><name>EHLERS, Vernon James</name><id>E000092</id><party>R</party><state>MI</state><encodedDistrict>MI_3</encodedDistrict></rep>
+<rep><name>ELLISON, Keith</name><id>E000288</id><party>D</party><state>MN</state><encodedDistrict>MN_5</encodedDistrict></rep>
+<rep><name>ELLSWORTH, Brad</name><id>E000289</id><party>D</party><state>IN</state><encodedDistrict>IN_8</encodedDistrict></rep>
+<rep><name>EMERSON, Jo Ann</name><id>E000172</id><party>R</party><state>MO</state><encodedDistrict>MO_8</encodedDistrict></rep>
+<rep><name>ENGEL, Eliot Lance</name><id>E000179</id><party>D</party><state>NY</state><encodedDistrict>NY_17</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep><name>ESHOO, Anna Georges</name><id>E000215</id><party>D</party><state>CA</state><encodedDistrict>CA_14</encodedDistrict></rep>
+<rep><name>ETHERIDGE, Bobby R.</name><id>E000226</id><party>D</party><state>NC</state><encodedDistrict>NC_2</encodedDistrict></rep>
+<rep/>
+<rep><name>FALLIN, Mary</name><id>F000453</id><party>R</party><state>OK</state><encodedDistrict>OK_5</encodedDistrict></rep>
+<rep><name>FARR, Sam</name><id>F000030</id><party>D</party><state>CA</state><encodedDistrict>CA_17</encodedDistrict></rep>
+<rep><name>FATTAH, Chaka</name><id>F000043</id><party>D</party><state>PA</state><encodedDistrict>PA_2</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep><name>FILNER, Bob</name><id>F000116</id><party>D</party><state>CA</state><encodedDistrict>CA_51</encodedDistrict></rep>
+<rep><name>FLAKE, Jeff</name><id>F000444</id><party>R</party><state>AZ</state><encodedDistrict>AZ_6</encodedDistrict></rep>
+<rep><name>FLEMING, John</name><id>F000456</id><party>R</party><state>LA</state><encodedDistrict>LA_4</encodedDistrict></rep>
+<rep><name>FORBES, J. Randy</name><id>F000445</id><party>R</party><state>VA</state><encodedDistrict>VA_4</encodedDistrict></rep>
+<rep><name>FORTENBERRY, Jeff</name><id>F000449</id><party>R</party><state>NE</state><encodedDistrict>NE_1</encodedDistrict></rep>
+<rep><name>FOSTER, Bill</name><id>F000454</id><party>D</party><state>IL</state><encodedDistrict>IL_14</encodedDistrict></rep>
+<rep><name>FOXX, Virginia Ann</name><id>F000450</id><party>R</party><state>NC</state><encodedDistrict>NC_5</encodedDistrict></rep>
+<rep><name>FRANK, Barney</name><id>F000339</id><party>D</party><state>MA</state><encodedDistrict>MA_4</encodedDistrict></rep>
+<rep/>
+<rep><name>FRANKS, Trent</name><id>F000448</id><party>R</party><state>AZ</state><encodedDistrict>AZ_2</encodedDistrict></rep>
+<rep><name>FRELINGHUYSEN, Rodney P.</name><id>F000372</id><party>R</party><state>NJ</state><encodedDistrict>NJ_11</encodedDistrict></rep>
+<rep><name>FUDGE, Marcia L.</name><id>F000455</id><party>D</party><state>OH</state><encodedDistrict>OH_11</encodedDistrict></rep>
+<rep><name>GALLEGLY, Elton W.</name><id>G000021</id><party>R</party><state>CA</state><encodedDistrict>CA_24</encodedDistrict></rep>
+<rep><name>GARAMENDI, John</name><id>G000559</id><party>D</party><state>CA</state><encodedDistrict>CA_10</encodedDistrict></rep>
+<rep><name>GARRETT, Scott</name><id>G000548</id><party>R</party><state>NJ</state><encodedDistrict>NJ_5</encodedDistrict></rep>
+<rep><name>GERLACH, Jim</name><id>G000549</id><party>R</party><state>PA</state><encodedDistrict>PA_6</encodedDistrict></rep>
+<rep><name>GIFFORDS, Gabrielle</name><id>G000554</id><party>D</party><state>AZ</state><encodedDistrict>AZ_8</encodedDistrict></rep>
+<rep><name>GILLIBRAND, Kirsten</name><id>G000555</id><party>D</party><state>NY</state><encodedDistrict>NY_20</encodedDistrict></rep>
+<rep/>
+<rep><name>GINGREY, Phil</name><id>G000550</id><party>R</party><state>GA</state><encodedDistrict>GA_11</encodedDistrict></rep>
+<rep><name>GOHMERT, Louie</name><id>G000552</id><party>R</party><state>TX</state><encodedDistrict>TX_1</encodedDistrict></rep>
+<rep><name>GONZALEZ, Charles A.</name><id>G000544</id><party>D</party><state>TX</state><encodedDistrict>TX_20</encodedDistrict></rep>
+<rep><name>GOODLATTE, Robert William</name><id>G000289</id><party>R</party><state>VA</state><encodedDistrict>VA_6</encodedDistrict></rep>
+<rep/>
+<rep><name>GORDON, Barton Jennings</name><id>G000309</id><party>D</party><state>TN</state><encodedDistrict>TN_6</encodedDistrict></rep>
+<rep/>
+<rep><name>GRANGER, Kay</name><id>G000377</id><party>R</party><state>TX</state><encodedDistrict>TX_12</encodedDistrict></rep>
+<rep/>
+<rep><name>GRAVES, Samuel</name><id>G000546</id><party>R</party><state>MO</state><encodedDistrict>MO_6</encodedDistrict></rep>
+<rep><name>GRAVES, Tom</name><id>G000560</id><party>R</party><state>GA</state><encodedDistrict>GA_9</encodedDistrict></rep>
+<rep><name>GRAYSON, Alan</name><id>G000556</id><party>D</party><state>FL</state><encodedDistrict>FL_8</encodedDistrict></rep>
+<rep><name>GREEN, Al</name><id>G000553</id><party>D</party><state>TX</state><encodedDistrict>TX_9</encodedDistrict></rep>
+<rep><name>GREEN, Raymond Eugene (Gene)</name><id>G000410</id><party>D</party><state>TX</state><encodedDistrict>TX_29</encodedDistrict></rep>
+<rep/>
+<rep><name>GRIFFITH, Parker</name><id>G000557</id><party>R</party><state>AL</state><encodedDistrict>AL_5</encodedDistrict></rep>
+<rep><name>GRIJALVA, Ra�l M.</name><id>G000551</id><party>D</party><state>AZ</state><encodedDistrict>AZ_7</encodedDistrict></rep>
+<rep><name>GUTHRIE, Brett</name><id>G000558</id><party>R</party><state>KY</state><encodedDistrict>KY_2</encodedDistrict></rep>
+<rep><name>GUTIERREZ, Luis V.</name><id>G000535</id><party>D</party><state>IL</state><encodedDistrict>IL_4</encodedDistrict></rep>
+<rep/>
+<rep><name>HALL, John</name><id>H001039</id><party>D</party><state>NY</state><encodedDistrict>NY_19</encodedDistrict></rep>
+<rep><name>HALL, Ralph Moody</name><id>H000067</id><party>R</party><state>TX</state><encodedDistrict>TX_4</encodedDistrict></rep>
+<rep><name>HALVORSON, Deborah L.</name><id>H001044</id><party>D</party><state>IL</state><encodedDistrict>IL_11</encodedDistrict></rep>
+<rep><name>HARE, Phil</name><id>H001040</id><party>D</party><state>IL</state><encodedDistrict>IL_17</encodedDistrict></rep>
+<rep/>
+<rep><name>HARMAN, Jane L.</name><id>H000213</id><party>D</party><state>CA</state><encodedDistrict>CA_36</encodedDistrict></rep>
+<rep><name>HARPER, Gregg</name><id>H001045</id><party>R</party><state>MS</state><encodedDistrict>MS_3</encodedDistrict></rep>
+<rep><name>HASTINGS, Alcee Lamar</name><id>H000324</id><party>D</party><state>FL</state><encodedDistrict>FL_23</encodedDistrict></rep>
+<rep><name>HASTINGS, Doc</name><id>H000329</id><party>R</party><state>WA</state><encodedDistrict>WA_4</encodedDistrict></rep>
+<rep/>
+<rep><name>HEINRICH, Martin</name><id>H001046</id><party>D</party><state>NM</state><encodedDistrict>NM_1</encodedDistrict></rep>
+<rep><name>HELLER, Dean</name><id>H001041</id><party>R</party><state>NV</state><encodedDistrict>NV_2</encodedDistrict></rep>
+<rep><name>HENSARLING, Jeb</name><id>H001036</id><party>R</party><state>TX</state><encodedDistrict>TX_5</encodedDistrict></rep>
+<rep><name>HERGER, Walter William (Wally)</name><id>H000528</id><party>R</party><state>CA</state><encodedDistrict>CA_2</encodedDistrict></rep>
+<rep><name>HERSETH SANDLIN, Stephanie</name><id>H001037</id><party>D</party><state>SD</state><encodedDistrict>SD_At-Large</encodedDistrict></rep>
+<rep><name>HIGGINS, Brian</name><id>H001038</id><party>D</party><state>NY</state><encodedDistrict>NY_27</encodedDistrict></rep>
+<rep><name>HILL, Baron P.</name><id>H001030</id><party>D</party><state>IN</state><encodedDistrict>IN_9</encodedDistrict></rep>
+<rep><name>HIMES, James A.</name><id>H001047</id><party>D</party><state>CT</state><encodedDistrict>CT_4</encodedDistrict></rep>
+<rep><name>HINCHEY, Maurice Dunlea</name><id>H000627</id><party>D</party><state>NY</state><encodedDistrict>NY_22</encodedDistrict></rep>
+<rep><name>HINOJOSA, Rub�n</name><id>H000636</id><party>D</party><state>TX</state><encodedDistrict>TX_15</encodedDistrict></rep>
+<rep><name>HIRONO, Mazie</name><id>H001042</id><party>D</party><state>HI</state><encodedDistrict>HI_2</encodedDistrict></rep>
+<rep><name>HODES, Paul</name><id>H001043</id><party>D</party><state>NH</state><encodedDistrict>NH_2</encodedDistrict></rep>
+<rep><name>HOEKSTRA, Peter</name><id>H000676</id><party>R</party><state>MI</state><encodedDistrict>MI_2</encodedDistrict></rep>
+<rep><name>HOLDEN, Thomas Timothy (Tim)</name><id>H000712</id><party>D</party><state>PA</state><encodedDistrict>PA_17</encodedDistrict></rep>
+<rep><name>HOLT, Rush</name><id>H001032</id><party>D</party><state>NJ</state><encodedDistrict>NJ_12</encodedDistrict></rep>
+<rep><name>HONDA, Mike</name><id>H001034</id><party>D</party><state>CA</state><encodedDistrict>CA_15</encodedDistrict></rep>
+<rep><name>HOYER, Steny Hamilton</name><id>H000874</id><party>D</party><state>MD</state><encodedDistrict>MD_5</encodedDistrict></rep>
+<rep><name>HUNTER, Duncan Duane</name><id>H001048</id><party>R</party><state>CA</state><encodedDistrict>CA_52</encodedDistrict></rep>
+<rep/>
+<rep><name>INGLIS, Robert Durden</name><id>I000023</id><party>R</party><state>SC</state><encodedDistrict>SC_4</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep><name>INSLEE, Jay Robert</name><id>I000026</id><party>D</party><state>WA</state><encodedDistrict>WA_1</encodedDistrict></rep>
+<rep/>
+<rep><name>ISRAEL, Steve</name><id>I000057</id><party>D</party><state>NY</state><encodedDistrict>NY_2</encodedDistrict></rep>
+<rep><name>ISSA, Darrell</name><id>I000056</id><party>R</party><state>CA</state><encodedDistrict>CA_49</encodedDistrict></rep>
+<rep><name>JACKSON, Jesse L., Jr.</name><id>J000283</id><party>D</party><state>IL</state><encodedDistrict>IL_2</encodedDistrict></rep>
+<rep><name>JACKSON LEE, Sheila</name><id>J000032</id><party>D</party><state>TX</state><encodedDistrict>TX_18</encodedDistrict></rep>
+<rep><name>JENKINS, Lynn</name><id>J000290</id><party>R</party><state>KS</state><encodedDistrict>KS_2</encodedDistrict></rep>
+<rep/>
+<rep><name>JOHNSON, Eddie Bernice</name><id>J000126</id><party>D</party><state>TX</state><encodedDistrict>TX_30</encodedDistrict></rep>
+<rep><name>JOHNSON, Hank</name><id>J000288</id><party>D</party><state>GA</state><encodedDistrict>GA_4</encodedDistrict></rep>
+<rep><name>JOHNSON, Sam</name><id>J000174</id><party>R</party><state>TX</state><encodedDistrict>TX_3</encodedDistrict></rep>
+<rep/>
+<rep><name>JOHNSON, Timothy V.</name><id>J000285</id><party>R</party><state>IL</state><encodedDistrict>IL_15</encodedDistrict></rep>
+<rep><name>JONES, Walter Beaman, Jr.</name><id>J000255</id><party>R</party><state>NC</state><encodedDistrict>NC_3</encodedDistrict></rep>
+<rep><name>JORDAN, Jim</name><id>J000289</id><party>R</party><state>OH</state><encodedDistrict>OH_4</encodedDistrict></rep>
+<rep><name>KAGEN, Steven</name><id>K000365</id><party>D</party><state>WI</state><encodedDistrict>WI_8</encodedDistrict></rep>
+<rep><name>KANJORSKI, Paul E.</name><id>K000008</id><party>D</party><state>PA</state><encodedDistrict>PA_11</encodedDistrict></rep>
+<rep><name>KAPTUR, Marcia Carolyn (Marcy)</name><id>K000009</id><party>D</party><state>OH</state><encodedDistrict>OH_9</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep><name>KENNEDY, Patrick Joseph</name><id>K000113</id><party>D</party><state>RI</state><encodedDistrict>RI_1</encodedDistrict></rep>
+<rep/>
+<rep><name>KILDEE, Dale Edward</name><id>K000172</id><party>D</party><state>MI</state><encodedDistrict>MI_5</encodedDistrict></rep>
+<rep><name>KILPATRICK, Carolyn Cheeks</name><id>K000180</id><party>D</party><state>MI</state><encodedDistrict>MI_13</encodedDistrict></rep>
+<rep><name>KILROY, Mary Jo</name><id>K000372</id><party>D</party><state>OH</state><encodedDistrict>OH_15</encodedDistrict></rep>
+<rep><name>KIND, Ron</name><id>K000188</id><party>D</party><state>WI</state><encodedDistrict>WI_3</encodedDistrict></rep>
+<rep><name>KING, Peter T.</name><id>K000210</id><party>R</party><state>NY</state><encodedDistrict>NY_3</encodedDistrict></rep>
+<rep><name>KING, Steve</name><id>K000362</id><party>R</party><state>IA</state><encodedDistrict>IA_5</encodedDistrict></rep>
+<rep><name>KINGSTON, Jack</name><id>K000220</id><party>R</party><state>GA</state><encodedDistrict>GA_1</encodedDistrict></rep>
+<rep><name>KIRK, Mark Steven</name><id>K000360</id><party>R</party><state>IL</state><encodedDistrict>IL_10</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep><name>KIRKPATRICK, Ann</name><id>K000368</id><party>D</party><state>AZ</state><encodedDistrict>AZ_1</encodedDistrict></rep>
+<rep><name>KISSELL, Larry</name><id>K000369</id><party>D</party><state>NC</state><encodedDistrict>NC_8</encodedDistrict></rep>
+<rep><name>KLEIN, Ron</name><id>K000366</id><party>D</party><state>FL</state><encodedDistrict>FL_22</encodedDistrict></rep>
+<rep><name>KLINE, John</name><id>K000363</id><party>R</party><state>MN</state><encodedDistrict>MN_2</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep><name>KOSMAS, Suzanne M.</name><id>K000370</id><party>D</party><state>FL</state><encodedDistrict>FL_24</encodedDistrict></rep>
+<rep><name>KRATOVIL, Frank, M. Jr.</name><id>K000371</id><party>D</party><state>MD</state><encodedDistrict>MD_1</encodedDistrict></rep>
+<rep><name>KUCINICH, Dennis</name><id>K000336</id><party>D</party><state>OH</state><encodedDistrict>OH_10</encodedDistrict></rep>
+<rep/>
+<rep><name>LAMBORN, Doug</name><id>L000564</id><party>R</party><state>CO</state><encodedDistrict>CO_5</encodedDistrict></rep>
+<rep><name>LANCE, Leonard</name><id>L000567</id><party>R</party><state>NJ</state><encodedDistrict>NJ_7</encodedDistrict></rep>
+<rep/>
+<rep><name>LANGEVIN, James</name><id>L000559</id><party>D</party><state>RI</state><encodedDistrict>RI_2</encodedDistrict></rep>
+<rep><name>LARSEN, Richard Ray (Rick)</name><id>L000560</id><party>D</party><state>WA</state><encodedDistrict>WA_2</encodedDistrict></rep>
+<rep><name>LARSON, John B.</name><id>L000557</id><party>D</party><state>CT</state><encodedDistrict>CT_1</encodedDistrict></rep>
+<rep><name>LATHAM, Thomas</name><id>L000111</id><party>R</party><state>IA</state><encodedDistrict>IA_4</encodedDistrict></rep>
+<rep><name>LaTOURETTE, Steven C.</name><id>L000553</id><party>R</party><state>OH</state><encodedDistrict>OH_14</encodedDistrict></rep>
+<rep><name>LATTA, Robert E.</name><id>L000566</id><party>R</party><state>OH</state><encodedDistrict>OH_5</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep><name>LEE, Barbara</name><id>L000551</id><party>D</party><state>CA</state><encodedDistrict>CA_9</encodedDistrict></rep>
+<rep><name>LEE, Christopher John</name><id>L000568</id><party>R</party><state>NY</state><encodedDistrict>NY_26</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep><name>LEVIN, Sander Martin</name><id>L000263</id><party>D</party><state>MI</state><encodedDistrict>MI_12</encodedDistrict></rep>
+<rep><name>LEWIS, Charles Jeremy (Jerry)</name><id>L000274</id><party>R</party><state>CA</state><encodedDistrict>CA_41</encodedDistrict></rep>
+<rep><name>LEWIS, John R.</name><id>L000287</id><party>D</party><state>GA</state><encodedDistrict>GA_5</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep><name>LINDER, John Elmer</name><id>L000321</id><party>R</party><state>GA</state><encodedDistrict>GA_7</encodedDistrict></rep>
+<rep><name>LIPINSKI, Daniel</name><id>L000563</id><party>D</party><state>IL</state><encodedDistrict>IL_3</encodedDistrict></rep>
+<rep><name>LoBIONDO, Frank A.</name><id>L000554</id><party>R</party><state>NJ</state><encodedDistrict>NJ_2</encodedDistrict></rep>
+<rep><name>LOEBSACK, Dave</name><id>L000565</id><party>D</party><state>IA</state><encodedDistrict>IA_2</encodedDistrict></rep>
+<rep><name>LOFGREN, Zoe</name><id>L000397</id><party>D</party><state>CA</state><encodedDistrict>CA_16</encodedDistrict></rep>
+<rep><name>LOWEY, Nita M.</name><id>L000480</id><party>D</party><state>NY</state><encodedDistrict>NY_18</encodedDistrict></rep>
+<rep><name>LUCAS, Frank D.</name><id>L000491</id><party>R</party><state>OK</state><encodedDistrict>OK_3</encodedDistrict></rep>
+<rep><name>LUETKEMEYER, Blaine</name><id>L000569</id><party>R</party><state>MO</state><encodedDistrict>MO_9</encodedDistrict></rep>
+<rep/>
+<rep><name>LUJ�N, Ben Ray</name><id>L000570</id><party>D</party><state>NM</state><encodedDistrict>NM_3</encodedDistrict></rep>
+<rep><name>LUMMIS, Cynthia M.</name><id>L000571</id><party>R</party><state>WY</state><encodedDistrict>WY_At-Large</encodedDistrict></rep>
+<rep><name>LUNGREN, Daniel Edward</name><id>L000517</id><party>R</party><state>CA</state><encodedDistrict>CA_3</encodedDistrict></rep>
+<rep><name>LYNCH, Stephen F.</name><id>L000562</id><party>D</party><state>MA</state><encodedDistrict>MA_9</encodedDistrict></rep>
+<rep><name>MACK, Connie, IV</name><id>M001155</id><party>R</party><state>FL</state><encodedDistrict>FL_14</encodedDistrict></rep>
+<rep><name>MAFFEI, Daniel B.</name><id>M001171</id><party>D</party><state>NY</state><encodedDistrict>NY_25</encodedDistrict></rep>
+<rep><name>MALONEY, Carolyn Bosher</name><id>M000087</id><party>D</party><state>NY</state><encodedDistrict>NY_14</encodedDistrict></rep>
+<rep/>
+<rep><name>MANZULLO, Donald A.</name><id>M001138</id><party>R</party><state>IL</state><encodedDistrict>IL_16</encodedDistrict></rep>
+<rep><name>MARCHANT, Kenny</name><id>M001158</id><party>R</party><state>TX</state><encodedDistrict>TX_24</encodedDistrict></rep>
+<rep><name>MARKEY, Betsy</name><id>M001172</id><party>D</party><state>CO</state><encodedDistrict>CO_4</encodedDistrict></rep>
+<rep><name>MARKEY, Edward John</name><id>M000133</id><party>D</party><state>MA</state><encodedDistrict>MA_7</encodedDistrict></rep>
+<rep><name>MARSHALL, Jim</name><id>M001146</id><party>D</party><state>GA</state><encodedDistrict>GA_8</encodedDistrict></rep>
+<rep/>
+<rep><name>MASSA, Eric J.J.</name><id>M001173</id><party>D</party><state>NY</state><encodedDistrict>NY_29</encodedDistrict></rep>
+<rep><name>MATHESON, James David (Jim)</name><id>M001142</id><party>D</party><state>UT</state><encodedDistrict>UT_2</encodedDistrict></rep>
+<rep><name>MATSUI, Doris Okada</name><id>M001163</id><party>D</party><state>CA</state><encodedDistrict>CA_5</encodedDistrict></rep>
+<rep/>
+<rep><name>McCARTHY, Carolyn</name><id>M000309</id><party>D</party><state>NY</state><encodedDistrict>NY_4</encodedDistrict></rep>
+<rep><name>MCCARTHY, Kevin</name><id>M001165</id><party>R</party><state>CA</state><encodedDistrict>CA_22</encodedDistrict></rep>
+<rep/>
+<rep><name>McCAUL, Michael T.</name><id>M001157</id><party>R</party><state>TX</state><encodedDistrict>TX_10</encodedDistrict></rep>
+<rep><name>McCLINTOCK, Tom</name><id>M001177</id><party>R</party><state>CA</state><encodedDistrict>CA_4</encodedDistrict></rep>
+<rep><name>McCOLLUM, Betty</name><id>M001143</id><party>D</party><state>MN</state><encodedDistrict>MN_4</encodedDistrict></rep>
+<rep/>
+<rep><name>McCOTTER, Thaddeus George</name><id>M001147</id><party>R</party><state>MI</state><encodedDistrict>MI_11</encodedDistrict></rep>
+<rep><name>McDERMOTT, James A.</name><id>M000404</id><party>D</party><state>WA</state><encodedDistrict>WA_7</encodedDistrict></rep>
+<rep><name>McGOVERN, James P.</name><id>M000312</id><party>D</party><state>MA</state><encodedDistrict>MA_3</encodedDistrict></rep>
+<rep><name>McHENRY, Patrick T.</name><id>M001156</id><party>R</party><state>NC</state><encodedDistrict>NC_10</encodedDistrict></rep>
+<rep><name>McHUGH, John Michael</name><id>M000472</id><party>R</party><state>NY</state><encodedDistrict>NY_23</encodedDistrict></rep>
+<rep><name>McINTYRE, Mike</name><id>M000485</id><party>D</party><state>NC</state><encodedDistrict>NC_7</encodedDistrict></rep>
+<rep><name>McKEON, Howard P. (Buck)</name><id>M000508</id><party>R</party><state>CA</state><encodedDistrict>CA_25</encodedDistrict></rep>
+<rep><name>McMAHON, Michael E.</name><id>M001174</id><party>D</party><state>NY</state><encodedDistrict>NY_13</encodedDistrict></rep>
+<rep><name>McMORRIS RODGERS, Cathy</name><id>M001159</id><party>R</party><state>WA</state><encodedDistrict>WA_5</encodedDistrict></rep>
+<rep><name>McNERNEY, Jerry</name><id>M001166</id><party>D</party><state>CA</state><encodedDistrict>CA_11</encodedDistrict></rep>
+<rep><name>MEEK, Kendrick B.</name><id>M001148</id><party>D</party><state>FL</state><encodedDistrict>FL_17</encodedDistrict></rep>
+<rep><name>MEEKS, Gregory W.</name><id>M001137</id><party>D</party><state>NY</state><encodedDistrict>NY_6</encodedDistrict></rep>
+<rep><name>MELANCON, Charles J.</name><id>M001161</id><party>D</party><state>LA</state><encodedDistrict>LA_3</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep><name>MICA, John L.</name><id>M000689</id><party>R</party><state>FL</state><encodedDistrict>FL_7</encodedDistrict></rep>
+<rep><name>MICHAUD, Michael H.</name><id>M001149</id><party>D</party><state>ME</state><encodedDistrict>ME_2</encodedDistrict></rep>
+<rep/>
+<rep><name>MILLER, Brad</name><id>M001154</id><party>D</party><state>NC</state><encodedDistrict>NC_13</encodedDistrict></rep>
+<rep><name>MILLER, Candice S.</name><id>M001150</id><party>R</party><state>MI</state><encodedDistrict>MI_10</encodedDistrict></rep>
+<rep><name>MILLER, Gary G.</name><id>M001139</id><party>R</party><state>CA</state><encodedDistrict>CA_42</encodedDistrict></rep>
+<rep><name>MILLER, George</name><id>M000725</id><party>D</party><state>CA</state><encodedDistrict>CA_7</encodedDistrict></rep>
+<rep><name>MILLER, Jefferson B. (Jeff)</name><id>M001144</id><party>R</party><state>FL</state><encodedDistrict>FL_1</encodedDistrict></rep>
+<rep><name>MINNICK, Walt</name><id>M001175</id><party>D</party><state>ID</state><encodedDistrict>ID_1</encodedDistrict></rep>
+<rep><name>MITCHELL, Harry E.</name><id>M001167</id><party>D</party><state>AZ</state><encodedDistrict>AZ_5</encodedDistrict></rep>
+<rep><name>MOLLOHAN, Alan Bowlby</name><id>M000844</id><party>D</party><state>WV</state><encodedDistrict>WV_1</encodedDistrict></rep>
+<rep><name>MOORE, Dennis</name><id>M001140</id><party>D</party><state>KS</state><encodedDistrict>KS_3</encodedDistrict></rep>
+<rep><name>MOORE, Gwendolynne S. (Gwen)</name><id>M001160</id><party>D</party><state>WI</state><encodedDistrict>WI_4</encodedDistrict></rep>
+<rep><name>MORAN, James P.</name><id>M000933</id><party>D</party><state>VA</state><encodedDistrict>VA_8</encodedDistrict></rep>
+<rep><name>MORAN, Jerry</name><id>M000934</id><party>R</party><state>KS</state><encodedDistrict>KS_1</encodedDistrict></rep>
+<rep/>
+<rep><name>MURPHY, Christopher</name><id>M001169</id><party>D</party><state>CT</state><encodedDistrict>CT_5</encodedDistrict></rep>
+<rep><name>MURPHY, Patrick</name><id>M001168</id><party>D</party><state>PA</state><encodedDistrict>PA_8</encodedDistrict></rep>
+<rep><name>MURPHY, Scott</name><id>M001178</id><party>D</party><state>NY</state><encodedDistrict>NY_20</encodedDistrict></rep>
+<rep><name>MURPHY, Timothy</name><id>M001151</id><party>R</party><state>PA</state><encodedDistrict>PA_18</encodedDistrict></rep>
+<rep/>
+<rep><name>MURTHA, John Patrick, Jr.</name><id>M001120</id><party>D</party><state>PA</state><encodedDistrict>PA_12</encodedDistrict></rep>
+<rep><name>MYRICK, Sue</name><id>M001134</id><party>R</party><state>NC</state><encodedDistrict>NC_9</encodedDistrict></rep>
+<rep><name>NADLER, Jerrold Lewis</name><id>N000002</id><party>D</party><state>NY</state><encodedDistrict>NY_8</encodedDistrict></rep>
+<rep><name>NAPOLITANO, Grace Flores</name><id>N000179</id><party>D</party><state>CA</state><encodedDistrict>CA_38</encodedDistrict></rep>
+<rep><name>NEAL, Richard Edmund</name><id>N000015</id><party>D</party><state>MA</state><encodedDistrict>MA_2</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep><name>NEUGEBAUER, Randy</name><id>N000182</id><party>R</party><state>TX</state><encodedDistrict>TX_19</encodedDistrict></rep>
+<rep/>
+<rep><name>NUNES, Devin</name><id>N000181</id><party>R</party><state>CA</state><encodedDistrict>CA_21</encodedDistrict></rep>
+<rep><name>NYE, Glenn C., III</name><id>N000183</id><party>D</party><state>VA</state><encodedDistrict>VA_2</encodedDistrict></rep>
+<rep><name>OBERSTAR, James Louis</name><id>O000006</id><party>D</party><state>MN</state><encodedDistrict>MN_8</encodedDistrict></rep>
+<rep><name>OBEY, David Ross</name><id>O000007</id><party>D</party><state>WI</state><encodedDistrict>WI_7</encodedDistrict></rep>
+<rep><name>OLSON, Pete</name><id>O000168</id><party>R</party><state>TX</state><encodedDistrict>TX_22</encodedDistrict></rep>
+<rep><name>OLVER, John Walter</name><id>O000085</id><party>D</party><state>MA</state><encodedDistrict>MA_1</encodedDistrict></rep>
+<rep><name>ORTIZ, Solomon P.</name><id>O000107</id><party>D</party><state>TX</state><encodedDistrict>TX_27</encodedDistrict></rep>
+<rep><name>OWENS, William</name><id>O000169</id><party>D</party><state>NY</state><encodedDistrict>NY_21</encodedDistrict></rep>
+<rep><name>PALLONE, Frank, Jr.</name><id>P000034</id><party>D</party><state>NJ</state><encodedDistrict>NJ_6</encodedDistrict></rep>
+<rep><name>PASCRELL, William J., Jr.</name><id>P000096</id><party>D</party><state>NJ</state><encodedDistrict>NJ_8</encodedDistrict></rep>
+<rep><name>PASTOR, Ed</name><id>P000099</id><party>D</party><state>AZ</state><encodedDistrict>AZ_4</encodedDistrict></rep>
+<rep><name>PAUL, Ronald Ernest</name><id>P000583</id><party>R</party><state>TX</state><encodedDistrict>TX_14</encodedDistrict></rep>
+<rep><name>PAULSEN, Erik</name><id>P000594</id><party>R</party><state>MN</state><encodedDistrict>MN_3</encodedDistrict></rep>
+<rep><name>PAYNE, Donald Milford</name><id>P000149</id><party>D</party><state>NJ</state><encodedDistrict>NJ_10</encodedDistrict></rep>
+<rep><name>PELOSI, Nancy</name><id>P000197</id><party>D</party><state>CA</state><encodedDistrict>CA_8</encodedDistrict></rep>
+<rep/>
+<rep><name>PENCE, Mike</name><id>P000587</id><party>R</party><state>IN</state><encodedDistrict>IN_6</encodedDistrict></rep>
+<rep><name>PERLMUTTER, Ed</name><id>P000593</id><party>D</party><state>CO</state><encodedDistrict>CO_7</encodedDistrict></rep>
+<rep><name>PERRIELLO, Tom</name><id>P000600</id><party>D</party><state>VA</state><encodedDistrict>VA_5</encodedDistrict></rep>
+<rep><name>PETERS, Gary C.</name><id>P000595</id><party>D</party><state>MI</state><encodedDistrict>MI_9</encodedDistrict></rep>
+<rep><name>PETERSON, Collin Clark</name><id>P000258</id><party>D</party><state>MN</state><encodedDistrict>MN_7</encodedDistrict></rep>
+<rep><name>PETRI, Thomas Evert</name><id>P000265</id><party>R</party><state>WI</state><encodedDistrict>WI_6</encodedDistrict></rep>
+<rep/>
+<rep><name>PINGREE, Chellie</name><id>P000597</id><party>D</party><state>ME</state><encodedDistrict>ME_1</encodedDistrict></rep>
+<rep><name>PITTS, Joseph R.</name><id>P000373</id><party>R</party><state>PA</state><encodedDistrict>PA_16</encodedDistrict></rep>
+<rep><name>PLATTS, Todd</name><id>P000585</id><party>R</party><state>PA</state><encodedDistrict>PA_19</encodedDistrict></rep>
+<rep><name>POE, Ted</name><id>P000592</id><party>R</party><state>TX</state><encodedDistrict>TX_2</encodedDistrict></rep>
+<rep><name>POLIS, Jared</name><id>P000598</id><party>D</party><state>CO</state><encodedDistrict>CO_2</encodedDistrict></rep>
+<rep><name>POMEROY, Earl Ralph, III</name><id>P000422</id><party>D</party><state>ND</state><encodedDistrict>ND_At-Large</encodedDistrict></rep>
+<rep><name>POSEY, Bill</name><id>P000599</id><party>R</party><state>FL</state><encodedDistrict>FL_15</encodedDistrict></rep>
+<rep><name>PRICE, David Eugene</name><id>P000523</id><party>D</party><state>NC</state><encodedDistrict>NC_4</encodedDistrict></rep>
+<rep><name>PRICE, Tom</name><id>P000591</id><party>R</party><state>GA</state><encodedDistrict>GA_6</encodedDistrict></rep>
+<rep/>
+<rep><name>PUTNAM, Adam</name><id>P000586</id><party>R</party><state>FL</state><encodedDistrict>FL_12</encodedDistrict></rep>
+<rep><name>QUIGLEY, Mike</name><id>Q000023</id><party>D</party><state>IL</state><encodedDistrict>IL_5</encodedDistrict></rep>
+<rep><name>RADANOVICH, George P.</name><id>R000004</id><party>R</party><state>CA</state><encodedDistrict>CA_19</encodedDistrict></rep>
+<rep><name>RAHALL, Nick Joe, II</name><id>R000011</id><party>D</party><state>WV</state><encodedDistrict>WV_3</encodedDistrict></rep>
+<rep><name>RANGEL, Charles B.</name><id>R000053</id><party>D</party><state>NY</state><encodedDistrict>NY_15</encodedDistrict></rep>
+<rep/>
+<rep><name>REED, Thomas W. II</name><id>R000585</id><party>R</party><state>NY</state><encodedDistrict>NY_29</encodedDistrict></rep>
+<rep><name>REHBERG, Denny</name><id>R000571</id><party>R</party><state>MT</state><encodedDistrict>MT_At-Large</encodedDistrict></rep>
+<rep><name>REICHERT, David G.</name><id>R000578</id><party>R</party><state>WA</state><encodedDistrict>WA_8</encodedDistrict></rep>
+<rep/>
+<rep><name>REYES, Silvestre</name><id>R000170</id><party>D</party><state>TX</state><encodedDistrict>TX_16</encodedDistrict></rep>
+<rep><name>RICHARDSON, Laura</name><id>R000581</id><party>D</party><state>CA</state><encodedDistrict>CA_37</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep/>
+<rep><name>RODRIGUEZ, Ciro D.</name><id>R000568</id><party>D</party><state>TX</state><encodedDistrict>TX_23</encodedDistrict></rep>
+<rep><name>ROE, David P. (Phil)</name><id>R000582</id><party>R</party><state>TN</state><encodedDistrict>TN_1</encodedDistrict></rep>
+<rep><name>ROGERS, Harold Dallas (Hal)</name><id>R000395</id><party>R</party><state>KY</state><encodedDistrict>KY_5</encodedDistrict></rep>
+<rep><name>ROGERS, Mike</name><id>R000572</id><party>R</party><state>MI</state><encodedDistrict>MI_8</encodedDistrict></rep>
+<rep><name>ROGERS, Mike Dennis</name><id>R000575</id><party>R</party><state>AL</state><encodedDistrict>AL_3</encodedDistrict></rep>
+<rep><name>ROHRABACHER, Dana</name><id>R000409</id><party>R</party><state>CA</state><encodedDistrict>CA_46</encodedDistrict></rep>
+<rep><name>ROONEY, Thomas J.</name><id>R000583</id><party>R</party><state>FL</state><encodedDistrict>FL_16</encodedDistrict></rep>
+<rep><name>ROS-LEHTINEN, Ileana</name><id>R000435</id><party>R</party><state>FL</state><encodedDistrict>FL_18</encodedDistrict></rep>
+<rep><name>ROSKAM, Peter</name><id>R000580</id><party>R</party><state>IL</state><encodedDistrict>IL_6</encodedDistrict></rep>
+<rep><name>ROSS, Michael Avery</name><id>R000573</id><party>D</party><state>AR</state><encodedDistrict>AR_4</encodedDistrict></rep>
+<rep><name>ROTHMAN, Steven</name><id>R000462</id><party>D</party><state>NJ</state><encodedDistrict>NJ_9</encodedDistrict></rep>
+<rep><name>ROYBAL-ALLARD, Lucille</name><id>R000486</id><party>D</party><state>CA</state><encodedDistrict>CA_34</encodedDistrict></rep>
+<rep><name>ROYCE, Edward Randall</name><id>R000487</id><party>R</party><state>CA</state><encodedDistrict>CA_40</encodedDistrict></rep>
+<rep><name>RUPPERSBERGER, C. A. (Dutch)</name><id>R000576</id><party>D</party><state>MD</state><encodedDistrict>MD_2</encodedDistrict></rep>
+<rep><name>RUSH, Bobby L.</name><id>R000515</id><party>D</party><state>IL</state><encodedDistrict>IL_1</encodedDistrict></rep>
+<rep><name>RYAN, Paul</name><id>R000570</id><party>R</party><state>WI</state><encodedDistrict>WI_1</encodedDistrict></rep>
+<rep><name>RYAN, Timothy J.</name><id>R000577</id><party>D</party><state>OH</state><encodedDistrict>OH_17</encodedDistrict></rep>
+<rep/>
+<rep><name>SALAZAR, John</name><id>S001158</id><party>D</party><state>CO</state><encodedDistrict>CO_3</encodedDistrict></rep>
+<rep/>
+<rep><name>S�NCHEZ, Linda T.</name><id>S001156</id><party>D</party><state>CA</state><encodedDistrict>CA_39</encodedDistrict></rep>
+<rep><name>SANCHEZ, Loretta</name><id>S000030</id><party>D</party><state>CA</state><encodedDistrict>CA_47</encodedDistrict></rep>
+<rep/>
+<rep><name>SARBANES, John</name><id>S001168</id><party>D</party><state>MD</state><encodedDistrict>MD_3</encodedDistrict></rep>
+<rep><name>SCALISE, Steve</name><id>S001176</id><party>R</party><state>LA</state><encodedDistrict>LA_1</encodedDistrict></rep>
+<rep><name>SCHAKOWSKY, Janice D.</name><id>S001145</id><party>D</party><state>IL</state><encodedDistrict>IL_9</encodedDistrict></rep>
+<rep><name>SCHAUER, Mark H.</name><id>S001178</id><party>D</party><state>MI</state><encodedDistrict>MI_7</encodedDistrict></rep>
+<rep><name>SCHIFF, Adam</name><id>S001150</id><party>D</party><state>CA</state><encodedDistrict>CA_29</encodedDistrict></rep>
+<rep><name>SCHMIDT, Jean</name><id>S001164</id><party>R</party><state>OH</state><encodedDistrict>OH_2</encodedDistrict></rep>
+<rep><name>SCHOCK, Aaron</name><id>S001179</id><party>R</party><state>IL</state><encodedDistrict>IL_18</encodedDistrict></rep>
+<rep><name>SCHRADER, Kurt</name><id>S001180</id><party>D</party><state>OR</state><encodedDistrict>OR_5</encodedDistrict></rep>
+<rep/>
+<rep><name>SCHWARTZ, Allyson Y.</name><id>S001162</id><party>D</party><state>PA</state><encodedDistrict>PA_13</encodedDistrict></rep>
+<rep><name>SCOTT, David</name><id>S001157</id><party>D</party><state>GA</state><encodedDistrict>GA_13</encodedDistrict></rep>
+<rep><name>SCOTT, Robert Cortez</name><id>S000185</id><party>D</party><state>VA</state><encodedDistrict>VA_3</encodedDistrict></rep>
+<rep><name>SENSENBRENNER, Frank James, Jr.</name><id>S000244</id><party>R</party><state>WI</state><encodedDistrict>WI_5</encodedDistrict></rep>
+<rep><name>SERRANO, Jos� E.</name><id>S000248</id><party>D</party><state>NY</state><encodedDistrict>NY_16</encodedDistrict></rep>
+<rep/>
+<rep><name>SESSIONS, Pete</name><id>S000250</id><party>R</party><state>TX</state><encodedDistrict>TX_32</encodedDistrict></rep>
+<rep><name>SESTAK, Joe</name><id>S001169</id><party>D</party><state>PA</state><encodedDistrict>PA_7</encodedDistrict></rep>
+<rep><name>SHADEGG, John B.</name><id>S000275</id><party>R</party><state>AZ</state><encodedDistrict>AZ_3</encodedDistrict></rep>
+<rep/>
+<rep><name>SHEA-PORTER, Carol</name><id>S001170</id><party>D</party><state>NH</state><encodedDistrict>NH_1</encodedDistrict></rep>
+<rep/>
+<rep><name>SHERMAN, Brad</name><id>S000344</id><party>D</party><state>CA</state><encodedDistrict>CA_27</encodedDistrict></rep>
+<rep><name>SHIMKUS, John M.</name><id>S000364</id><party>R</party><state>IL</state><encodedDistrict>IL_19</encodedDistrict></rep>
+<rep><name>SHULER, Heath</name><id>S001171</id><party>D</party><state>NC</state><encodedDistrict>NC_11</encodedDistrict></rep>
+<rep><name>SHUSTER, William (Bill)</name><id>S001154</id><party>R</party><state>PA</state><encodedDistrict>PA_9</encodedDistrict></rep>
+<rep><name>SIMPSON, Michael K.</name><id>S001148</id><party>R</party><state>ID</state><encodedDistrict>ID_2</encodedDistrict></rep>
+<rep><name>SIRES, Albio</name><id>S001165</id><party>D</party><state>NJ</state><encodedDistrict>NJ_13</encodedDistrict></rep>
+<rep><name>SKELTON, Isaac Newton, IV (Ike)</name><id>S000465</id><party>D</party><state>MO</state><encodedDistrict>MO_4</encodedDistrict></rep>
+<rep><name>SLAUGHTER, Louise McIntosh</name><id>S000480</id><party>D</party><state>NY</state><encodedDistrict>NY_28</encodedDistrict></rep>
+<rep><name>SMITH, Adam</name><id>S000510</id><party>D</party><state>WA</state><encodedDistrict>WA_9</encodedDistrict></rep>
+<rep><name>SMITH, Adrian</name><id>S001172</id><party>R</party><state>NE</state><encodedDistrict>NE_3</encodedDistrict></rep>
+<rep><name>SMITH, Christopher Henry</name><id>S000522</id><party>R</party><state>NJ</state><encodedDistrict>NJ_4</encodedDistrict></rep>
+<rep><name>SMITH, Lamar Seeligson</name><id>S000583</id><party>R</party><state>TX</state><encodedDistrict>TX_21</encodedDistrict></rep>
+<rep/>
+<rep><name>SNYDER, Victor F.</name><id>S000672</id><party>D</party><state>AR</state><encodedDistrict>AR_2</encodedDistrict></rep>
+<rep><name>SOLIS, Hilda L.</name><id>S001153</id><party>D</party><state>CA</state><encodedDistrict>CA_31</encodedDistrict></rep>
+<rep><name>SOUDER, Mark Edward</name><id>S001143</id><party>R</party><state>IN</state><encodedDistrict>IN_3</encodedDistrict></rep>
+<rep><name>SPACE, Zack</name><id>S001173</id><party>D</party><state>OH</state><encodedDistrict>OH_18</encodedDistrict></rep>
+<rep/>
+<rep><name>SPEIER, Karen Lorraine Jacqueline (Jackie)</name><id>S001175</id><party>D</party><state>CA</state><encodedDistrict>CA_12</encodedDistrict></rep>
+<rep><name>SPRATT, John McKee, Jr.</name><id>S000749</id><party>D</party><state>SC</state><encodedDistrict>SC_5</encodedDistrict></rep>
+<rep/>
+<rep><name>STARK, Fortney Hillman (Pete), Jr.</name><id>S000810</id><party>D</party><state>CA</state><encodedDistrict>CA_13</encodedDistrict></rep>
+<rep><name>STEARNS, Clifford Bundy</name><id>S000822</id><party>R</party><state>FL</state><encodedDistrict>FL_6</encodedDistrict></rep>
+<rep><name>STUPAK, Bart T.</name><id>S001045</id><party>D</party><state>MI</state><encodedDistrict>MI_1</encodedDistrict></rep>
+<rep><name>STUTZMAN, Marlin</name><id>S001188</id><party>R</party><state>IN</state><encodedDistrict>IN_3</encodedDistrict></rep>
+<rep><name>SULLIVAN, John</name><id>S001155</id><party>R</party><state>OK</state><encodedDistrict>OK_1</encodedDistrict></rep>
+<rep><name>SUTTON, Betty</name><id>S001174</id><party>D</party><state>OH</state><encodedDistrict>OH_13</encodedDistrict></rep>
+<rep><name>TANNER, John S.</name><id>T000038</id><party>D</party><state>TN</state><encodedDistrict>TN_8</encodedDistrict></rep>
+<rep><name>TAUSCHER, Ellen O'Kane</name><id>T000057</id><party>D</party><state>CA</state><encodedDistrict>CA_10</encodedDistrict></rep>
+<rep><name>TAYLOR, Gary Eugene (Gene)</name><id>T000074</id><party>D</party><state>MS</state><encodedDistrict>MS_4</encodedDistrict></rep>
+<rep><name>TEAGUE, Harry</name><id>T000466</id><party>D</party><state>NM</state><encodedDistrict>NM_2</encodedDistrict></rep>
+<rep><name>TERRY, Lee Raymond</name><id>T000459</id><party>R</party><state>NE</state><encodedDistrict>NE_2</encodedDistrict></rep>
+<rep/>
+<rep><name>THOMPSON, Bennie</name><id>T000193</id><party>D</party><state>MS</state><encodedDistrict>MS_2</encodedDistrict></rep>
+<rep><name>THOMPSON, Glenn</name><id>T000467</id><party>R</party><state>PA</state><encodedDistrict>PA_5</encodedDistrict></rep>
+<rep><name>THOMPSON, Michael</name><id>T000460</id><party>D</party><state>CA</state><encodedDistrict>CA_1</encodedDistrict></rep>
+<rep><name>THORNBERRY, William McClellan (Mac)</name><id>T000238</id><party>R</party><state>TX</state><encodedDistrict>TX_13</encodedDistrict></rep>
+<rep/>
+<rep><name>TIAHRT, Todd</name><id>T000260</id><party>R</party><state>KS</state><encodedDistrict>KS_4</encodedDistrict></rep>
+<rep><name>TIBERI, Patrick (Pat)</name><id>T000462</id><party>R</party><state>OH</state><encodedDistrict>OH_12</encodedDistrict></rep>
+<rep><name>TIERNEY, John F.</name><id>T000266</id><party>D</party><state>MA</state><encodedDistrict>MA_6</encodedDistrict></rep>
+<rep><name>TITUS, Alice (Dina)</name><id>T000468</id><party>D</party><state>NV</state><encodedDistrict>NV_3</encodedDistrict></rep>
+<rep><name>TONKO, Paul</name><id>T000469</id><party>D</party><state>NY</state><encodedDistrict>NY_20</encodedDistrict></rep>
+<rep><name>TOWNS, Edolphus</name><id>T000326</id><party>D</party><state>NY</state><encodedDistrict>NY_10</encodedDistrict></rep>
+<rep><name>TSONGAS, Nicola S. (Niki)</name><id>T000465</id><party>D</party><state>MA</state><encodedDistrict>MA_5</encodedDistrict></rep>
+<rep><name>TURNER, Michael R.</name><id>T000463</id><party>R</party><state>OH</state><encodedDistrict>OH_3</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep><name>UPTON, Frederick Stephen</name><id>U000031</id><party>R</party><state>MI</state><encodedDistrict>MI_6</encodedDistrict></rep>
+<rep><name>VAN HOLLEN, Christopher</name><id>V000128</id><party>D</party><state>MD</state><encodedDistrict>MD_8</encodedDistrict></rep>
+<rep><name>VEL�ZQUEZ, Nydia M.</name><id>V000081</id><party>D</party><state>NY</state><encodedDistrict>NY_12</encodedDistrict></rep>
+<rep><name>VISCLOSKY, Peter</name><id>V000108</id><party>D</party><state>IN</state><encodedDistrict>IN_1</encodedDistrict></rep>
+<rep/>
+<rep/>
+<rep><name>WALDEN, Greg</name><id>W000791</id><party>R</party><state>OR</state><encodedDistrict>OR_2</encodedDistrict></rep>
+<rep><name>WALZ, Tim</name><id>W000799</id><party>D</party><state>MN</state><encodedDistrict>MN_1</encodedDistrict></rep>
+<rep><name>WAMP, Zachary Paul</name><id>W000119</id><party>R</party><state>TN</state><encodedDistrict>TN_3</encodedDistrict></rep>
+<rep/>
+<rep><name>WASSERMAN SCHULTZ, Debbie</name><id>W000797</id><party>D</party><state>FL</state><encodedDistrict>FL_23</encodedDistrict></rep>
+<rep><name>WATERS, Maxine</name><id>W000187</id><party>D</party><state>CA</state><encodedDistrict>CA_35</encodedDistrict></rep>
+<rep><name>WATSON, Diane Edith</name><id>W000794</id><party>D</party><state>CA</state><encodedDistrict>CA_33</encodedDistrict></rep>
+<rep><name>WATT, Melvin L.</name><id>W000207</id><party>D</party><state>NC</state><encodedDistrict>NC_12</encodedDistrict></rep>
+<rep><name>WAXMAN, Henry Arnold</name><id>W000215</id><party>D</party><state>CA</state><encodedDistrict>CA_30</encodedDistrict></rep>
+<rep/>
+<rep><name>WEINER, Anthony D.</name><id>W000792</id><party>D</party><state>NY</state><encodedDistrict>NY_9</encodedDistrict></rep>
+<rep><name>WELCH, Peter</name><id>W000800</id><party>D</party><state>VT</state><encodedDistrict>VT_At-Large</encodedDistrict></rep>
+<rep><name>WESTMORELAND, Lynn A.</name><id>W000796</id><party>R</party><state>GA</state><encodedDistrict>GA_3</encodedDistrict></rep>
+<rep><name>WEXLER, Robert</name><id>W000314</id><party>D</party><state>FL</state><encodedDistrict>FL_19</encodedDistrict></rep>
+<rep/>
+<rep><name>WHITFIELD, Wayne Edward (Ed)</name><id>W000413</id><party>R</party><state>KY</state><encodedDistrict>KY_1</encodedDistrict></rep>
+<rep/>
+<rep><name>WILSON, Addison Graves (Joe)</name><id>W000795</id><party>R</party><state>SC</state><encodedDistrict>SC_2</encodedDistrict></rep>
+<rep><name>WILSON, Charlie</name><id>W000801</id><party>D</party><state>OH</state><encodedDistrict>OH_6</encodedDistrict></rep>
+<rep><name>WITTMAN, Robert J.</name><id>W000804</id><party>R</party><state>VA</state><encodedDistrict>VA_1</encodedDistrict></rep>
+<rep><name>WOLF, Frank Rudolph</name><id>W000672</id><party>R</party><state>VA</state><encodedDistrict>VA_10</encodedDistrict></rep>
+<rep><name>WOOLSEY, Lynn C.</name><id>W000738</id><party>D</party><state>CA</state><encodedDistrict>CA_6</encodedDistrict></rep>
+<rep><name>WU, David</name><id>W000793</id><party>D</party><state>OR</state><encodedDistrict>OR_1</encodedDistrict></rep>
+<rep/>
+<rep><name>YARMUTH, John</name><id>Y000062</id><party>D</party><state>KY</state><encodedDistrict>KY_3</encodedDistrict></rep>
+<rep><name>YOUNG, Charles William (Bill)</name><id>Y000031</id><party>R</party><state>FL</state><encodedDistrict>FL_10</encodedDistrict></rep>
+<rep><name>YOUNG, Donald Edwin</name><id>Y000033</id><party>R</party><state>AK</state><encodedDistrict>AK_At-Large</encodedDistrict></rep>
+
+</members></congress>
