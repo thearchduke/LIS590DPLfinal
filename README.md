@@ -6,7 +6,8 @@ In the 'complex' folder, the two most important files to look at are the two 'ca
 
 The SVG is the colorless file I use to create the district vote maps. (Thanks, wikimedia!)
 
-index.xslt converts links.xml into the index view through wanton abuse of the document() function.
+The /index URL converts links.xml into the index view through wanton abuse of the document() function, using the index_titletest.xsl transformation.
+This URL will ultimately be an identity transformation on a saved version of what you see right now when you go to /index.
 
 votes.xml and congBios.xml are files I made by hand that are instrumental in connecting districts, their representatives, and their representatives' votes, and are used in the production of the map.
 
